@@ -39,6 +39,7 @@ li {
   margin-bottom: 1rem;
   box-shadow: 0 0 2px #3b9be9;
   border-radius: 0.5rem;
+  overflow: hidden;
 }
 .question h1 {
   color: #3b9be9;
